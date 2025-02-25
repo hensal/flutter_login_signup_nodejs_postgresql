@@ -6,9 +6,8 @@ and write the below.
 Note this is generate from the google api so that we can send the forgot password link to individual user 
 from this email.
 
-   EMAIL_USER=kn55@gmail.com
-   
-   EMAIL_PASS=uyxw jguc qiwu wtqm
+     EMAIL_USER=kn55@gmail.com   
+     EMAIL_PASS=uyxw jguc qiwu wtqm
 
 UI:
 
