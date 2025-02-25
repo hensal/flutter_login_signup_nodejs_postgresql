@@ -7,7 +7,7 @@ Note: This is generated from the google api so that we can send the forgot passw
 using this email.This is just the demo, you need to create user and pass from google console as shown in screenshot below.
 
      EMAIL_USER=kn55@gmail.com   
-     EMAIL_PASS=pyxw kguc oiqu ztqd
+     EMAIL_PASS=pkyz kwuc uiqu ztqd
 
 ![app](https://github.com/user-attachments/assets/ad13c629-eff4-40c7-8b94-4323a87a04f4)
 
