@@ -9,10 +9,12 @@ from this email.This is just the demo, you need to create user and pass from goo
      EMAIL_USER=kn55@gmail.com   
      EMAIL_PASS=pyxw kguc oiqu ztqd
 
-![app](https://github.com/user-attachments/assets/1d5c7244-9550-4541-9114-b04a28ac8831)
+![app](https://github.com/user-attachments/assets/ad13c629-eff4-40c7-8b94-4323a87a04f4)
 
 
-![google](https://github.com/user-attachments/assets/687e03aa-74f0-445d-b113-215e9a72dec7)
+![google](https://github.com/user-attachments/assets/6e0d7b28-f7dd-47d9-aafa-c3379fc73de8)
+
+
  
 
 Step-2:
