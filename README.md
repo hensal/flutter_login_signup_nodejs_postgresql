@@ -20,6 +20,18 @@ using this email.This is just the demo, you need to create user and pass from go
 Step-2:
 Here, I used NodeJS for the back with the node nodemailer to send the email link to user.
 
+Step-3:
+In the index.html file inside the Web folder of flutter application. Write below code.
+
+      <base href="/">
+
+Step-4:
+Packages are listed below:
+
+      go_router: ^14.8.0
+      intl_phone_field: ^3.2.0
+      http: ^0.13.4
+
 UI:
 
 ![login](https://github.com/user-attachments/assets/442cc9cd-2274-4790-943d-852b30867737)
