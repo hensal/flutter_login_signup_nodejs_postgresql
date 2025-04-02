@@ -33,6 +33,10 @@ Packages are listed below:
       intl_phone_field: ^3.2.0
       http: ^0.13.4
 
+Step-5:
+The # sing in the URL route might give the error will reseting the password.
+SO use setUrlStrategy package of flutter in web application
+
 UI:
 
 ![login](https://github.com/user-attachments/assets/442cc9cd-2274-4790-943d-852b30867737)
