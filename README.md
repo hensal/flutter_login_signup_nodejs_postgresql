@@ -5,6 +5,7 @@ create the .env folder inside the server folder inside the project
 and write the below.
 Note: This is generated from the google api so that we can send the forgot password link to individual user 
 using this email.This is just the demo, you need to create user and pass from google console as shown in screenshot below.
+LInk:https://myaccount.google.com/
 
      EMAIL_USER=kn55@gmail.com   
      EMAIL_PASS=pkyz kwuc uiqu ztqd
